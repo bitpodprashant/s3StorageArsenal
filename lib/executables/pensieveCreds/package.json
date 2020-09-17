@@ -9,6 +9,6 @@
   "dependencies": {
     "mocha": "2.5.3",
     "async": "^2.6.0",
-    "node-forge": "^0.7.1"
+    "node-forge": "^0.10.0"
   }
 }
